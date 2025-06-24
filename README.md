@@ -1,6 +1,6 @@
 # COSE - Commercial Open Source Engineering
 
-> 从COSS到COSE：重新定义AI开发的基础设施
+> 从商业开源软件(COSS)到商业开源工程(COSE)：重新定义AI开发的基础设施
 > 
 > **COSE概念首创**：Commercial Open Source Engineering - 强调AI时代的工程化和标准制定特征
 
@@ -16,6 +16,8 @@
 - 不是销售功能，而是**按成果交付价值**
 - 不是服务客户，而是**成就合作伙伴**
 - 不是承诺工具，而是**保证结果**
+
+**COS框架扩展性**：Commercial Open Source作为统一品牌，支持从Engineering到Excellence、Economy、Evolution的战略演进路径。详见 [完整商业计划](BP_STRUCTURE.md)。
 
 ## 🚀 Dogfooding：技术实力的活证据
 
