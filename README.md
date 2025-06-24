@@ -106,5 +106,3 @@ COSE模式：我们承担成果责任
 ---
 
 > "The best way to predict the future is to invent it." - Alan Kay
-> 
-> 我们不预测AI的未来，我们正在按成果交付它的标准。 
