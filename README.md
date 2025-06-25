@@ -62,7 +62,7 @@ pie title 价值主张
 
 ## 📊 完整商业计划
 
-详见 [BP_STRUCTURE.md](BP_STRUCTURE.md) - 投资级开源商业计划书
+详见 [BP-STRUCTURE.md](BP-STRUCTURE.md) - 投资级开源商业计划书
 
 ## 🤝 开源协作
 
