@@ -70,14 +70,20 @@ pie title 价值主张
 - 📝 [PRs](https://github.com/deepractice/COSE/pulls) - 内容贡献
 - 📖 [贡献指南](docs/contributing.md) - 参与方式
 
-## 📞 联系
+## 📞 联系我们
 
-**成果交付保证者**：Deepractice.ai  
-**投资交流**：通过Issues深度交流
+**商务合作 & 交流事宜**
+
+<img src="assets/images/qrcode.jpg" width="200" alt="商务合作微信二维码">
+
+**其他联系方式**
+- 📧 Email: carson@deepracticex.com  
+- 💬 GitHub: [深度交流](https://github.com/deepractice/COSE/issues)
+- 📖 商业计划: [查看完整BP](BP_STRUCTURE.md)
 
 ---
 
-⭐ **如果你相信AI需要按成果交付的统一标准，请给我们一个Star！**
+⭐ **如果你也相信AI需要按成果交付的统一标准，Let's do it！**
 
 > "The best way to predict the future is to invent it." - Alan Kay
 > 
