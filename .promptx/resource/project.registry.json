@@ -4,11 +4,76 @@
   "metadata": {
     "version": "2.0.0",
     "description": "project 级资源注册表",
-    "createdAt": "2025-06-24T15:52:16.919Z",
-    "updatedAt": "2025-06-24T15:52:16.920Z",
-    "resourceCount": 5
+    "createdAt": "2025-06-26T14:57:50.276Z",
+    "updatedAt": "2025-06-26T14:57:50.277Z",
+    "resourceCount": 10
   },
   "resources": [
+    {
+      "id": "deepractice-cbo",
+      "source": "project",
+      "protocol": "role",
+      "name": "Deepractice Cbo 角色",
+      "description": "专业角色，提供特定领域的专业能力",
+      "reference": "@project://.promptx/resource/domain/deepractice-cbo/deepractice-cbo.role.md",
+      "metadata": {
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
+      }
+    },
+    {
+      "id": "business-innovation",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Business Innovation 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/deepractice-cbo/thought/business-innovation.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
+      }
+    },
+    {
+      "id": "ecosystem-orchestration",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Ecosystem Orchestration 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/deepractice-cbo/thought/ecosystem-orchestration.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
+      }
+    },
+    {
+      "id": "strategic-decision-making",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Strategic Decision Making 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/deepractice-cbo/execution/strategic-decision-making.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
+      }
+    },
+    {
+      "id": "business-strategy",
+      "source": "project",
+      "protocol": "knowledge",
+      "name": "Business Strategy 知识库",
+      "description": "知识库，提供专业知识和信息",
+      "reference": "@project://.promptx/resource/domain/deepractice-cbo/knowledge/business-strategy.knowledge.md",
+      "metadata": {
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
+      }
+    },
     {
       "id": "strategic-investment-advisor",
       "source": "project",
@@ -17,9 +82,9 @@
       "description": "专业角色，提供特定领域的专业能力",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/strategic-investment-advisor.role.md",
       "metadata": {
-        "createdAt": "2025-06-24T15:52:16.919Z",
-        "updatedAt": "2025-06-24T15:52:16.919Z",
-        "scannedAt": "2025-06-24T15:52:16.919Z"
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
       }
     },
     {
@@ -30,9 +95,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/thought/investment-analysis.thought.md",
       "metadata": {
-        "createdAt": "2025-06-24T15:52:16.919Z",
-        "updatedAt": "2025-06-24T15:52:16.919Z",
-        "scannedAt": "2025-06-24T15:52:16.919Z"
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
       }
     },
     {
@@ -43,9 +108,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/thought/strategic-thinking.thought.md",
       "metadata": {
-        "createdAt": "2025-06-24T15:52:16.919Z",
-        "updatedAt": "2025-06-24T15:52:16.919Z",
-        "scannedAt": "2025-06-24T15:52:16.919Z"
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
       }
     },
     {
@@ -56,9 +121,9 @@
       "description": "执行模式，定义具体的行为模式",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/execution/investment-evaluation.execution.md",
       "metadata": {
-        "createdAt": "2025-06-24T15:52:16.920Z",
-        "updatedAt": "2025-06-24T15:52:16.920Z",
-        "scannedAt": "2025-06-24T15:52:16.920Z"
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
       }
     },
     {
@@ -69,22 +134,22 @@
       "description": "知识库，提供专业知识和信息",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/knowledge/investment-frameworks.knowledge.md",
       "metadata": {
-        "createdAt": "2025-06-24T15:52:16.920Z",
-        "updatedAt": "2025-06-24T15:52:16.920Z",
-        "scannedAt": "2025-06-24T15:52:16.920Z"
+        "createdAt": "2025-06-26T14:57:50.277Z",
+        "updatedAt": "2025-06-26T14:57:50.277Z",
+        "scannedAt": "2025-06-26T14:57:50.277Z"
       }
     }
   ],
   "stats": {
-    "totalResources": 5,
+    "totalResources": 10,
     "byProtocol": {
-      "role": 1,
-      "thought": 2,
-      "execution": 1,
-      "knowledge": 1
+      "role": 2,
+      "thought": 4,
+      "execution": 2,
+      "knowledge": 2
     },
     "bySource": {
-      "project": 5
+      "project": 10
     }
   }
 }
