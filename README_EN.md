@@ -37,7 +37,7 @@ graph TD
     A --> D[AI-First<br/>AI-Priority Architecture]
     
     B --> E[Business models naturally possess AI capabilities<br/>rather than adding AI features later]
-    C --> F[Using AI to drive business decisions and execution<br/>rather than manual judgment]
+    C --> F[Using AI to drive business decisions and execution<br/>rather than human judgment]
     D --> G[Organizations and processes prioritize AI<br/>rather than traditional approaches]
     
     style A fill:#e1f5fe
@@ -230,6 +230,11 @@ graph TD
 
 ## 📞 Contact Deepractice Team
 
+**Business Cooperation & Communication**
+
+<img src="assets/images/qrcode.jpg" width="200" alt="Carson Business Cooperation WeChat QR Code">
+
+**Other Contact Methods**
 - 🌐 **Project Homepage**: https://github.com/deepractice/COSE
 - 📧 **Business Cooperation**: carson@deepracticex.com
 - 💬 **Technical Discussion**: [GitHub Discussions](https://github.com/deepractice/COSE/discussions)

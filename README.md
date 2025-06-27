@@ -37,7 +37,7 @@ graph TD
     A --> D[AI-First<br/>AI优先架构]
     
     B --> E[商业模式天然具备AI能力<br/>而非后期添加]
-    C --> F[用AI驱动商业决策和执行<br/>而非人工判断]
+    C --> F[用AI驱动商业决策和执行<br/>而非人类判断]
     D --> G[组织和流程优先考虑AI<br/>而非传统方式]
     
     style A fill:#e1f5fe
@@ -157,6 +157,11 @@ git push origin feature/your-contribution
 
 ## 📞 联系深度实践团队
 
+**商务合作 & 交流事宜**
+
+<img src="assets/images/qrcode.jpg" width="200" alt="Carson商务合作微信二维码">
+
+**其他联系方式**
 - 🌐 **项目主页**：https://github.com/deepractice/COSE
 - 📧 **商务合作**：carson@deepracticex.com
 - 💬 **技术讨论**：[GitHub Discussions](https://github.com/deepractice/COSE/discussions)
