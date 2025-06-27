@@ -4,11 +4,24 @@
   "metadata": {
     "version": "2.0.0",
     "description": "project 级资源注册表",
-    "createdAt": "2025-06-26T14:57:50.276Z",
-    "updatedAt": "2025-06-26T14:57:50.277Z",
-    "resourceCount": 10
+    "createdAt": "2025-06-27T17:02:47.325Z",
+    "updatedAt": "2025-06-27T17:02:47.327Z",
+    "resourceCount": 21
   },
   "resources": [
+    {
+      "id": "ai-industry-analyst",
+      "source": "project",
+      "protocol": "role",
+      "name": "Ai Industry Analyst 角色",
+      "description": "专业角色，提供特定领域的专业能力",
+      "reference": "@project://.promptx/resource/domain/ai-industry-analyst/ai-industry-analyst.role.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
+      }
+    },
     {
       "id": "deepractice-cbo",
       "source": "project",
@@ -17,9 +30,9 @@
       "description": "专业角色，提供特定领域的专业能力",
       "reference": "@project://.promptx/resource/domain/deepractice-cbo/deepractice-cbo.role.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
       }
     },
     {
@@ -30,9 +43,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/domain/deepractice-cbo/thought/business-innovation.thought.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
       }
     },
     {
@@ -43,9 +56,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/domain/deepractice-cbo/thought/ecosystem-orchestration.thought.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
       }
     },
     {
@@ -56,9 +69,9 @@
       "description": "执行模式，定义具体的行为模式",
       "reference": "@project://.promptx/resource/domain/deepractice-cbo/execution/strategic-decision-making.execution.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
       }
     },
     {
@@ -69,9 +82,139 @@
       "description": "知识库，提供专业知识和信息",
       "reference": "@project://.promptx/resource/domain/deepractice-cbo/knowledge/business-strategy.knowledge.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
+      }
+    },
+    {
+      "id": "enterprise-sales-director",
+      "source": "project",
+      "protocol": "role",
+      "name": "Enterprise Sales Director 角色",
+      "description": "专业角色，提供特定领域的专业能力",
+      "reference": "@project://.promptx/resource/domain/enterprise-sales-director/enterprise-sales-director.role.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
+      }
+    },
+    {
+      "id": "github-oss-expert",
+      "source": "project",
+      "protocol": "role",
+      "name": "Github Oss Expert 角色",
+      "description": "专业角色，提供特定领域的专业能力",
+      "reference": "@project://.promptx/resource/domain/github-oss-expert/github-oss-expert.role.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
+      }
+    },
+    {
+      "id": "github-oss-thinking",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Github Oss Thinking 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/github-oss-expert/thought/github-oss-thinking.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
+      }
+    },
+    {
+      "id": "occams-razor",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Occams Razor 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/github-oss-expert/thought/occams-razor.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.326Z",
+        "updatedAt": "2025-06-27T17:02:47.326Z",
+        "scannedAt": "2025-06-27T17:02:47.326Z"
+      }
+    },
+    {
+      "id": "github-project-iteration",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Github Project Iteration 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/github-oss-expert/execution/github-project-iteration.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
+      }
+    },
+    {
+      "id": "oss-best-practices",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Oss Best Practices 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/github-oss-expert/execution/oss-best-practices.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
+      }
+    },
+    {
+      "id": "simplicity-first",
+      "source": "project",
+      "protocol": "execution",
+      "name": "Simplicity First 执行模式",
+      "description": "执行模式，定义具体的行为模式",
+      "reference": "@project://.promptx/resource/domain/github-oss-expert/execution/simplicity-first.execution.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
+      }
+    },
+    {
+      "id": "legal-compliance-advisor",
+      "source": "project",
+      "protocol": "role",
+      "name": "Legal Compliance Advisor 角色",
+      "description": "专业角色，提供特定领域的专业能力",
+      "reference": "@project://.promptx/resource/domain/legal-compliance-advisor/legal-compliance-advisor.role.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
+      }
+    },
+    {
+      "id": "legal-reasoning",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Legal Reasoning 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/legal-compliance-advisor/thought/legal-reasoning.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
+      }
+    },
+    {
+      "id": "risk-assessment",
+      "source": "project",
+      "protocol": "thought",
+      "name": "Risk Assessment 思维模式",
+      "description": "思维模式，指导AI的思考方式",
+      "reference": "@project://.promptx/resource/domain/legal-compliance-advisor/thought/risk-assessment.thought.md",
+      "metadata": {
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
       }
     },
     {
@@ -82,9 +225,9 @@
       "description": "专业角色，提供特定领域的专业能力",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/strategic-investment-advisor.role.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
       }
     },
     {
@@ -95,9 +238,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/thought/investment-analysis.thought.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
       }
     },
     {
@@ -108,9 +251,9 @@
       "description": "思维模式，指导AI的思考方式",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/thought/strategic-thinking.thought.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
       }
     },
     {
@@ -121,9 +264,9 @@
       "description": "执行模式，定义具体的行为模式",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/execution/investment-evaluation.execution.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
       }
     },
     {
@@ -134,22 +277,22 @@
       "description": "知识库，提供专业知识和信息",
       "reference": "@project://.promptx/resource/domain/strategic-investment-advisor/knowledge/investment-frameworks.knowledge.md",
       "metadata": {
-        "createdAt": "2025-06-26T14:57:50.277Z",
-        "updatedAt": "2025-06-26T14:57:50.277Z",
-        "scannedAt": "2025-06-26T14:57:50.277Z"
+        "createdAt": "2025-06-27T17:02:47.327Z",
+        "updatedAt": "2025-06-27T17:02:47.327Z",
+        "scannedAt": "2025-06-27T17:02:47.327Z"
       }
     }
   ],
   "stats": {
-    "totalResources": 10,
+    "totalResources": 21,
     "byProtocol": {
-      "role": 2,
-      "thought": 4,
-      "execution": 2,
+      "role": 6,
+      "thought": 8,
+      "execution": 5,
       "knowledge": 2
     },
     "bySource": {
-      "project": 10
+      "project": 21
     }
   }
 }

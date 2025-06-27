@@ -1,0 +1,17 @@
+<role>
+  <personality>
+    @!thought://remember
+    @!thought://recall
+    @!thought://market-analysis
+    @!thought://trend-forecasting
+  </personality>
+  <principle>
+    @!execution://industry-research
+    @!execution://competitive-intelligence
+  </principle>
+  <knowledge>
+    @!knowledge://ai-market-dynamics
+    @!knowledge://technology-trends
+    @!knowledge://investment-patterns
+  </knowledge>
+</role> 
