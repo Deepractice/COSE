@@ -181,5 +181,5 @@ git push origin feature/your-contribution
 
 ## 🔗 语言版本
 
-- 🇨🇳 [中文版本 (Chinese)](README.md)
-- 🇺🇸 [English Version](README_EN.md)
+- [中文 (Chinese)](README.md)
+- [English Version](README_EN.md)

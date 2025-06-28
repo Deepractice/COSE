@@ -265,5 +265,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🔗 Language Versions
 
-- 🇨🇳 [中文版本 (Chinese)](README.md)
-- 🇺🇸 [English Version](README_EN.md) 
+- [Chinese](README.md)
+- [English](README_EN.md) 
