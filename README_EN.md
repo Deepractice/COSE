@@ -82,20 +82,6 @@ graph TD
 - ✅ **Extremely High Cost Efficiency**: 90%+ cost reduction compared to traditional consulting teams
 - ✅ **Continuous Learning Evolution**: Team capabilities continuously improve with project development
 
-### **Technical Implementation: DPML Protocol**
-
-```bash
-# Quick experience of AI expert collaboration
-git clone https://github.com/deepractice/COSE.git
-cd COSE
-npm install -g @deepractice/promptx
-
-# Activate AI expert team
-promptx action github-oss-expert
-promptx action deepractice-cbo
-promptx action strategic-investment-advisor
-```
-
 ## 📚 In-Depth Learning Resources
 
 ### **Methodology Documentation**
@@ -238,7 +224,7 @@ graph TD
 - 🌐 **Project Homepage**: https://github.com/deepractice/COSE
 - 📧 **Business Cooperation**: carson@deepracticex.com
 - 💬 **Technical Discussion**: [GitHub Discussions](https://github.com/deepractice/COSE/discussions)
-- 📱 **Community Exchange**: Technical professionals who recognize AI-Native philosophy, welcome to engage in deep discussions through Issues
+- 📱 **Community Exchange**: professionals who recognize AI-Native philosophy, welcome to engage in deep discussions through Issues
 
 ## 🇨🇳 Chinese Market Focus
 

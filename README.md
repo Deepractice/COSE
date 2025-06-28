@@ -82,20 +82,6 @@ graph TD
 - ✅ **成本效率极高**：相比传统咨询团队成本降低90%+
 - ✅ **持续学习进化**：团队能力随项目发展不断完善
 
-### **技术实现：DPML协议**
-
-```bash
-# 快速体验AI专家协作
-git clone https://github.com/deepractice/COSE.git
-cd COSE
-npm install -g @deepractice/promptx
-
-# 激活AI专家团队
-promptx action github-oss-expert
-promptx action deepractice-cbo
-promptx action strategic-investment-advisor
-```
-
 ## 📚 深度学习资源
 
 ### **方法论文档**
@@ -165,7 +151,7 @@ git push origin feature/your-contribution
 - 🌐 **项目主页**：https://github.com/deepractice/COSE
 - 📧 **商务合作**：carson@deepracticex.com
 - 💬 **技术讨论**：[GitHub Discussions](https://github.com/deepractice/COSE/discussions)
-- 📱 **社区交流**：认同AI-Native理念的技术人员，欢迎通过Issues深度交流
+- 📱 **社区交流**：认同AI-Native理念的伙伴，欢迎通过Issues深度交流
 
 ## 📄 开源协议
 
