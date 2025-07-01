@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/deepractice/COSE)](https://github.com/deepractice/COSE/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![AI-Native](https://img.shields.io/badge/AI-Native-green.svg)](docs/ai-native-guide.md)
+[![AI-Native](https://img.shields.io/badge/AI-Native-green.svg)](playbooks/ai-native-guide.md)
 
 ## 🎯 Value Proposition
 
@@ -152,15 +152,15 @@ graph TD
 ## 📚 Learning Resources
 
 ### **Core Methodology**
-- 📖 [AI-Native Business Model Guide](docs/ai-native-guide.md)
-- 📖 [AI Expert Development Tutorial](docs/ai-expert-development.md)
-- 📖 [COSE Contribution Guide](docs/contributing.md)
+- 📖 [AI-Native Business Model Guide](playbooks/ai-native-guide.md)
+- 📖 [AI Expert Development Tutorial](playbooks/ai-expert-development.md)
+- 📖 [COSE Contribution Guide](contributing.md)
 
 ### **Business Plan Documents**
-- 💼 [Business Model Design](BUSINESS-MODEL.md)
-- 💼 [Investment Business Plan Structure](BP-STRUCTURE.md)
-- 💼 [Expert Team Summary](EXPERT-SUMMARY.md)
-- 💼 [Legal Compliance Framework](LEGAL-COMPLIANCE.md)
+- 💼 [Business Model Design](business-plan/BUSINESS-MODEL.md)
+- 💼 [Investment Business Plan Structure](business-plan/BP-STRUCTURE.md)
+- 💼 [Expert Team Summary](business-plan/EXPERT-SUMMARY.md)
+- 💼 [Legal Compliance Framework](business-plan/LEGAL-COMPLIANCE.md)
 
 ### **Practice Cases**
 - 🏆 [COSE's Own AI-Native Practice](examples/cose-self-practice/)
