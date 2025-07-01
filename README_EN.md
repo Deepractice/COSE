@@ -102,14 +102,14 @@ This statement shows Deepractice team's business wisdom:
 
 ---
 
-## 🛠️ Technical Implementation: Grounding Our Beliefs
+## 🛠️ Solutions: Grounding Our Beliefs
 
-### **🔧 DPML Protocol** - AI Prompt Engineering
-> **Deepractice Prompt Markup Language** - Make AI prompts as engineered as code
+### **🔧 DPML Protocol** - AI Prompt Standardization
+> **Deepractice Prompt Markup Language** - Achieve standardized management of AI prompts
 
-✅ **Protocol Implemented and Demonstrable**: The current 6 AI expert roles in COSE project are entirely built on DPML protocol, achieving standardized AI prompt engineering management
+✅ **Project Implemented and Demonstrable**: The current 6 AI expert roles in COSE project are entirely built on DPML protocol, achieving standardized AI prompt management
 
-📖 **Complete Technical Documentation**: [@https://github.com/Deepractice/DPML](https://github.com/Deepractice/DPML)
+📖 **Project Details**: [@https://github.com/Deepractice/DPML](https://github.com/Deepractice/DPML)
 
 **Empowering Collaboration Philosophy**:
 - 🎯 **Standardized Collaboration**: Make AI role collaboration replicable and manageable
@@ -119,9 +119,9 @@ This statement shows Deepractice team's business wisdom:
 ### **🤖 PromptX Framework** - AI Professional Capability Encapsulation
 > **AI Professional Role System** - Encapsulate professional capabilities into reusable AI roles
 
-✅ **PromptX Has Users and Is Verifiable**: Deepractice team and community users have used PromptX to create multiple professional AI roles, open-sourced for global developers
+✅ **Project Verified with Active Users**: Deepractice team and community users have used PromptX to create multiple professional AI roles, open-sourced for global developers
 
-📖 **Complete Technical Documentation**: [@https://github.com/Deepractice/PromptX](https://github.com/Deepractice/PromptX)
+📖 **Project Details**: [@https://github.com/Deepractice/PromptX](https://github.com/Deepractice/PromptX)
 
 **Empowering Innovation Philosophy**:
 - 🎯 **Collaborative Intelligence**: Multiple AI roles collaborating create 1+1>2 effects

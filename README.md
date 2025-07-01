@@ -102,14 +102,14 @@
 
 ---
 
-## 🛠️ 技术实现：让理念落地
+## 🛠️ 解决方案：让理念落地
 
-### **🔧 DPML协议** - AI提示词工程化
-> **Deepractice Prompt Markup Language** - 让AI提示词像代码一样工程化
+### **🔧 DPML协议** - AI提示词标准化
+> **Deepractice Prompt Markup Language** - 让AI提示词实现标准化管理
 
-✅ **协议已实现，可演示**：当前COSE项目的6个AI专家角色完全基于DPML协议构建，实现了标准化的AI提示词工程化管理
+✅ **项目已落地，可演示**：当前COSE项目的6个AI专家角色完全基于DPML协议构建，实现了标准化的AI提示词管理
 
-📖 **完整技术文档**: [@https://github.com/Deepractice/DPML](https://github.com/Deepractice/DPML)
+📖 **项目详情**: [@https://github.com/Deepractice/DPML](https://github.com/Deepractice/DPML)
 
 **为协作理念赋能**：
 - 🎯 **标准化协作**：让AI角色间的协作可复制、可管理
@@ -119,9 +119,9 @@
 ### **🤖 PromptX框架** - AI专业能力封装
 > **AI Professional Role System** - 将专业能力封装为可复用的AI角色
 
-✅ **PromptX已有用户在用，可验证**：深度实践团队及社区用户已使用PromptX创建多个专业AI角色，并开源供全球开发者使用
+✅ **项目已验证，有用户在用**：深度实践团队及社区用户已使用PromptX创建多个专业AI角色，并开源供全球开发者使用
 
-📖 **完整技术文档**: [@https://github.com/Deepractice/PromptX](https://github.com/Deepractice/PromptX)
+📖 **项目详情**: [@https://github.com/Deepractice/PromptX](https://github.com/Deepractice/PromptX)
 
 **为创新理念赋能**：
 - 🎯 **协作智能**：多个AI角色协作产生1+1>2的效果
